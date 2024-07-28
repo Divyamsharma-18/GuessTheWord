@@ -1,4 +1,4 @@
-const words = ['javascript', 'bash', 'cobol', 'ring', 'tom', 'vim', 'typescript', 'unity', 'sql', 'go', 'ruby', 'rust', 'jython', 'matlab', 'lynx', 'lucid', 'kotlin', 'hack', 'coffeescript', 'ecmascript', 'python', 'html', 'css', 'nodejs', 'react', 'java', 'nextjs', 'babbage', 'angular'];
+const words = ['javascript','dsa', 'github', 'bash', 'cobol', 'ring', 'tom', 'vim', 'typescript', 'unity', 'sql', 'go', 'ruby', 'rust', 'jython', 'matlab', 'lynx', 'lucid', 'kotlin', 'hack', 'coffeescript', 'ecmascript', 'python', 'html', 'css', 'nodejs', 'react', 'java', 'nextjs', 'babbage', 'angular'];
 
 
 let word = words[Math.floor(Math.random() * words.length)];
